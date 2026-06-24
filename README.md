@@ -1,3 +1,5 @@
+![Banner](Imagenes/banner.png)
+
 # Visión por Computador - Escuela de Primavera 2026 UNAB
 
 Este repositorio contiene el material e itinerario para las tres clases prácticas del curso de **Visión por Computador**, dictado en la **Escuela de Primavera 2026 de la Universidad Andrés Bello (UNAB)**. El diseño curricular y los laboratorios han sido desarrollados por **Pamela Franco**.
