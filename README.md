@@ -14,7 +14,7 @@ Haz clic en los siguientes botones para abrir directamente los entornos interact
 
 | Clase / Laboratorio | Botón de Acceso |
 | :--- | :--- |
-| **Clase 1:** Fundamentos Matemáticos, Computacionales y Patrones de Difracción | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pamelaFranco/vision_computador_UNAB/blob/main/C%C3%B3digos/visi%C3%B3n_por_computador1.ipynb) |
+| **Clase 1:** Fundamentos Matemáticos, Computacionales y Patrones de Difracción | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pamelaFranco/vision_computador_UNAB/blob/main/C%C3%B3digos/vision_por_computador1.ipynb) |
 | **Clase 2:** Transformaciones Geométricas y Operadores Lineales | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pamelaFranco/vision_computador_UNAB/blob/main/C%C3%B3digos/vision_por_computador2.ipynb) |
 | **Clase 3:** Extracción de Atributos, Segmentación y Toma de Decisión | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pamelaFranco/vision_computador_UNAB/blob/main/Clase_3_Segmentacion.ipynb) |
 
