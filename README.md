@@ -14,7 +14,7 @@ Haz clic en los siguientes botones para abrir directamente los entornos interact
 
 | Clase / Laboratorio | Botón de Acceso |
 | :--- | :--- |
-| **Práctico 1:** Fundamentos Matemáticos y Computacionales de la Visión por Computador | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pamelaFranco/vision_computador_UNAB/blob/main/Codigos/vision_por_computador2) |
+| **Práctico 1:** Fundamentos Matemáticos y Computacionales de la Visión por Computador | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pamelaFranco/vision_computador_UNAB/blob/main/Codigos/vision_por_computador1.ipynb) |
 | **Práctico 2:** Geometría Proyectiva y Calibración de Sistemas Ópticos | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pamelaFranco/vision_computador_UNAB/blob/main/Codigos/vision_por_computador2.ipynb) |
 | **Práctico 3:** Deep Learning I - Clasificación y Detección de Objetos (CNN & YOLO) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pamelaFranco/vision_computador_UNAB/blob/main/Codigos/vision_por_computador3.ipynb) |
 | **Práctico 4:** Deep Learning II - Segmentación y Modelos Avanzados (U-Net & Transformers) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pamelaFranco/vision_computador_UNAB/blob/main/Codigos/vision_por_computador4.ipynb) |
